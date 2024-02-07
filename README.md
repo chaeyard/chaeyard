@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&section=header&text=chaeyard's%20git&fontSize=90&theme=cobalt)
 ### Hi there 👋
+## i'm chaeyard
 ![chaeyard's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyard&theme=graywhite)
 
