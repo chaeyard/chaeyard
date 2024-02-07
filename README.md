@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=7,8,8,9&height=300&section=header&text=chaeyard's%20git&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&&color=_custom_gradient&color=0:EEFF00,100:a82da8&height=300&section=header&text=chaeyard's%20git&fontSize=90)
 ### Hi there 👋
 #### i'm chaeyard
 ![chaeyard's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyard&theme=graywhite)
