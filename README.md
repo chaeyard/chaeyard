@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--헤더-->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:F3B0C3,100:FFFFB5&height=200&section=header&text=chaeyard's%20git&fontSize=70&animation=fadeIn&fontColor=CBAACB)
 
+<!--상태표시표-->
 ![chaeyard's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyard&title_color=FFC096&text_color=FFB1B4&icon_color=CBAACB&bg_color=504350)
 
 
