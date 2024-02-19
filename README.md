@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--상태표시표-->
 <!--
-![chaeyard's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyard&title_color=FFC096&text_color=FFB1B4&icon_color=CBAACB&bg_color=504350)
+![My stats](https://github-readme-stats.vercel.app/api?username=chaeyard&title_color=FFC096&text_color=FFB1B4&icon_color=CBAACB&bg_color=504350)
 -->
 <!--언어비율-->
 <!--
