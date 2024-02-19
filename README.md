@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-<!--
 
 <!--상태표시표-->
 ![My stats](https://github-readme-stats.vercel.app/api?username=chaeyard&title_color=FFC096&text_color=FFB1B4&icon_color=CBAACB&bg_color=504350)
@@ -23,8 +19,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kailyard)](https://github.com/anuraghazra/github-readme-stats)
 <!--streak-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=kailyard&theme=rose&date_format=%5BY.%5Dn.j&card_width=450)](https://git.io/streak-stats)
-
 -->
+
+
 
 
 
