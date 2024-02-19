@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!--헤더-->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:F3B0C3,100:FFFFB5&height=200&section=header&text=chaeyard's%20github&fontSize=70&animation=fadeIn&fontColor=CBAACB)
 
-<div align = center>
+<div align = "center">
 <!--상태표시표-->
 ![chaeyard's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyard&theme=rose)
 
