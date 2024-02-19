@@ -36,4 +36,7 @@ Here are some ideas to get you started:
 <!--streak-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=kailyard&theme=rose&date_format=%5BY.%5Dn.j&card_width=450)](https://git.io/streak-stats)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cwp2002)](https://solved.ac/cwp2002)
+
 </div>
