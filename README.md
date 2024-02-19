@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <center>
 <!--상태표시표-->
 ![chaeyard's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyard&theme=rose)
-
+</center>
 <!--streak-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=kailyard&theme=rose&date_format=%5BY.%5Dn.j&card_width=450)](https://git.io/streak-stats)
-</center>
+
