@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 <!--상태표시표-->
 ![chaeyard's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyard&title_color=FFC096&text_color=FFB1B4&icon_color=CBAACB&bg_color=504350)
 
+<!--상태표시표-->
+![chaeyard's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyard&theme=rose)
+
 <!--언어비율-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kailyard)](https://github.com/anuraghazra/github-readme-stats)
