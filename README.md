@@ -23,16 +23,14 @@ Here are some ideas to get you started:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kailyard)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<div align = center>
+
 <!--헤더-->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:F3B0C3,100:FFFFB5&height=200&section=header&text=chaeyard's%20github&fontSize=70&animation=fadeIn&fontColor=CBAACB)
 
-
-
+<div align = center>
 <!--상태표시표-->
 ![chaeyard's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyard&theme=rose)
 
-
-<!--streak-->
+<!--streak표시-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=kailyard&theme=rose&date_format=%5BY.%5Dn.j&card_width=450)](https://git.io/streak-stats)
 </div>
