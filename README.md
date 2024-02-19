@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
 
 <!--상태표시표-->
 ![My stats](https://github-readme-stats.vercel.app/api?username=chaeyard&title_color=FFC096&text_color=FFB1B4&icon_color=CBAACB&bg_color=504350)
