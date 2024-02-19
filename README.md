@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kailyard)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kailyard&theme=rose&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kailyard&theme=rose&date_format=%5BY.%5Dn.j&card_width=450)](https://git.io/streak-stats)
