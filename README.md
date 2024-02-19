@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 -->
 
 
+
   
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:F3B0C3,100:FFFFB5&height=200&section=header&text=chaeyard's%20github&fontSize=70&animation=fadeIn&fontColor=CBAACB)
 
 
 ![chaeyard's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyard&theme=rose)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cwp2002)](https://solved.ac/cwp2002)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cwp2002)](https://solved.ac/cwp2002)
 
 
