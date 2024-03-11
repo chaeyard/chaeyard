@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:F3B0C3,100:FFFFB5&height=200&section=header&text=ChaeWon's%20github&fontSize=70&animation=fadeIn&fontColor=CBAACB)
 # ChaeWon 🌱
 ![chaeyard's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyard&theme=rose)
