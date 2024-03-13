@@ -1,6 +1,4 @@
 
-
-
 <!--
 **chaeyard/chaeyard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -13,8 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:F3B0C3,100:FFFFB5&height=200&section=header&text=ChaeWon's%20github&fontSize=70&animation=fadeIn&fontColor=CBAACB)
 # ChaeWon 🌱
